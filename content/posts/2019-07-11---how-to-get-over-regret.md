@@ -1,5 +1,5 @@
 ---
-title: 과거의 내가 원망스럽지만 그래도 나니까 🤣
+title: 후회되는 것을 반성하고 발전하기 위한 글
 date: "2019-07-11T04:01:00"
 template: "post"
 draft: false
