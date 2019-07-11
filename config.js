@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://circlezeroblog.netlify.com/',
+.  url: 'https://circlezeroblog.netlify.com/',
   pathPrefix: '/',
   title: 'circlezero blog',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: 'circlezeroblog',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-143694818-1',
   menu: [
     {
       label: 'Articles',
