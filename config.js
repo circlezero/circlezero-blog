@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-.  url: 'https://circlezeroblog.netlify.com/',
+  url: 'https://circlezeroblog.netlify.com/',
   pathPrefix: '/',
   title: 'circlezero blog',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
@@ -24,7 +24,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Circle Zero',
+    name: 'CircleZero',
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
