@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://circlezeroblog.netlify.com/',
   pathPrefix: '/',
   title: 'circlezero blog',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Front-End Dev',
   copyright: '© All rights reserved.',
   disqusShortname: 'circlezeroblog',
   postsPerPage: 4,
@@ -26,7 +26,7 @@ module.exports = {
   author: {
     name: 'CircleZero',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'JavaScript & Python',
     contacts: {
       email: '#',
       telegram: '#',
