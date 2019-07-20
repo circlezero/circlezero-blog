@@ -28,12 +28,8 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'JavaScript & Python',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'jwy0565@gmail.com',
+      github: 'circlezero',
     }
   }
 };
