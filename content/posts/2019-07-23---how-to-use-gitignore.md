@@ -10,13 +10,7 @@ tags:
   - "gitignore"
 description: ".gitignore를 잘 사용하기 위한 방법"
 ---
-#.gitignore 사용 설명
-
-## 목차
-- #### [gitignore에 명시된 파일은 왜 Stage, Commit이 되지 않는가?](#gitignore에-명시된-파일은-왜-Stage,-Commit이-되지-않는가?)
-- #### [gitignore 파일은 Global로 관리하지 않아도 된다.](#gitignore-파일은-Global로-관리하지-않아도-된다)
-- #### [gitignore 사용하기](#gitignore-사용하기)
-
+#.gitignore 설명
 
 ## gitignore에 명시된 파일은 왜 Stage, Commit이 되지 않는가?
 
@@ -24,7 +18,7 @@ description: ".gitignore를 잘 사용하기 위한 방법"
 
 File의 Status는 아래의 그림과 같이 변합니다.
 
-![File Life Cycle](/static/media/file-life-cycle.png)
+![File Life Cycle](/img/file-life-cycle.png)
 [ 이미지 출처 - [Pro Git](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository) ]
 
 gitignore에 명시되어 있는 파일들은 파일이 추가 되거나, 수정되어도 상태가 변하지 않고 
