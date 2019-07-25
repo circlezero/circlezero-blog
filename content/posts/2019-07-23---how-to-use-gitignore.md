@@ -1,5 +1,5 @@
 ---
-title: gitignore 사용 설명서
+title: gitignore 사용법
 date: "2019-07-23T04:01:00"
 template: "post"
 draft: false
@@ -10,7 +10,6 @@ tags:
   - "gitignore"
 description: ".gitignore를 잘 사용하기 위한 방법"
 ---
-#.gitignore 설명
 
 ## gitignore에 명시된 파일은 왜 Stage, Commit이 되지 않는가?
 
