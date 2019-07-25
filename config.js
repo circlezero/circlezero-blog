@@ -26,7 +26,7 @@ module.exports = {
   author: {
     name: 'CircleZero',
     photo: '/photo.jpg',
-    bio: '쉽게 이해하지 못하고 긴 설명글을 좋아하지 않는 나와 같은 분들을 위해서 시행착오를 줄여줄 수 있는 글을 작성하자',
+    bio: '쉽게 읽히고 전달이 잘 되는 글을 작성하고자 노력하고 있습니다',
     contacts: {
       email: 'jwy0565@gmail.com',
       github: 'circlezero',

@@ -18,7 +18,7 @@ description: ".gitignore를 잘 사용하기 위한 방법"
 
 File의 Status는 아래의 그림과 같이 변합니다.
 
-![File Life Cycle](/img/file-life-cycle.png)
+![File Life Cycle](/media/file-life-cycle.png)
 [ 이미지 출처 - [Pro Git](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository) ]
 
 gitignore에 명시되어 있는 파일들은 파일이 추가 되거나, 수정되어도 상태가 변하지 않고 
@@ -63,6 +63,6 @@ node_modules/
 설명이 부족하거나 잘못된 것이 있으면 바로 수정하도록 하겠습니다.
 
 ## Reference
-[GitHub Help](https://help.github.com/en/articles/ignoring-files)
-[Git Docs](https://git-scm.com/docs/gitignore)
-[Pro Git](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
+- [GitHub Help](https://help.github.com/en/articles/ignoring-files)
+- [Git Docs](https://git-scm.com/docs/gitignore)
+- [Pro Git](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
